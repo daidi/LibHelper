@@ -1,0 +1,10 @@
+a chrome extension which will add book informations to amazon,douban,dangdang,jingdong according to the library user choose.
+
+NOTE:As these websites are all established by big companies,their website will be modified very frequently ,I can hardly to follow their pace.Also, the library informations are too too too big because China has thousands of libraries ,their websites are all different .It is impossible for me to support them all. I am only a student, and the extension is only made for fun.
+
+for more information ,you can download the latest version of it in this website:https://chrome.google.com/webstore/detail/图书馆助手/felokeigofcbfmmoakibdiankckjoeio
+
+
+*************Directory Structure*****************
+├LibHelper/                        source code
+└README
